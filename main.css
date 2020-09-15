@@ -1,0 +1,21 @@
+body {
+	background: #999;
+	font-family: arial;
+}
+
+p {
+	background: red;
+	padding: 5px 10px 15px 20px;
+}
+
+h1 {
+	background: #555;
+}
+
+.blue {
+	background: blue;
+}
+
+#special {
+	background: green;
+}
